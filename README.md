@@ -17,3 +17,5 @@ Introduction to TouchDesigner 由我们的成员lijunjie（540794655@qq.com）�
 http://www.touchdesigner.co/documents
 
 本分支只作为指引和整理，利于传播学习，若有侵犯利益请提Issue
+
+https://github.com/xieyinpeng/Introduction-to-touchdesigner/blob/%E4%B8%AD%E6%96%87/Introduction%20to%20TouchDesigner%20%E4%B8%AD%E6%96%87%E7%89%88.pdf
