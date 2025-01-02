@@ -1,12 +1,12 @@
-##Introduction to TouchDesigner
+## Introduction to TouchDesigner
 
-#TD入门介绍
+# TD入门介绍
 
 这本书是基于 Elburz Sorkhabi & nVoid 的 Introduction to TouchDesigner 进行翻译的。我们会定期进行翻译连载，所有的教程案例我们都会附带上下载链接，这本书是TD启蒙学习的百科全书，希望大家能利用我们提供的资源尽快入门，进入到视频教程部分的学习。
 
 如果有任何的疑问，请发邮件至 info@tea-community.com 进行询问。
 
-##特别鸣谢
+## 特别鸣谢
 
 TouchDesigner Translation Team 
 
